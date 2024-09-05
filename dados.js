@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //para mostrar apenas uma variavel usa o ponto e o nome da variavel. ex titulo = .titulo
 let dados = [
@@ -19,3 +20,6 @@ let dados = [
 ];
 
 
+=======
+let dados = "Rayssa Leal"
+>>>>>>> 9a1df8448567c6906923dc5bd1e20858736f7774
